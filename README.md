@@ -1,19 +1,14 @@
 # CREDIT/DEBIT CARDS
-
-
-
-[
-	{
-		"network": "Visa",
-		"credit_card_number": "4472718944975844",
-		"cvv": "897",
-		"expiry_date": "2/2024",
-		"card_holder_name": "Elijah Garcia",
-		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=4472718944975844",
-		"bank_name": "Indiana University C.u., United States Of America",
-		"pin": "5982",
-		"card_holder_address": "Address:\nAtlantic Avenue, United States Of America",
-		"card_current_balance": "$ 2000"
+"network": "Visa",
+"credit_card_number": "4472718944975844",
+"cvv": "897",
+"expiry_date": "2/2024",
+"card_holder_name": "Elijah Garcia",
+"validation": "https://dnschecker.org/credit-card-validator.php?ccn=4472718944975844",
+"bank_name": "Indiana University C.u., United States Of America",
+"pin": "5982",
+"card_holder_address": "Address:\nAtlantic Avenue, United States Of America",
+"card_current_balance": "$ 2000"
 	},
 	{
 		"network": "Visa",
